@@ -1,0 +1,19 @@
+h1{
+    padding: 3%;
+    color: brown;
+    margin: auto;
+    width: fit-content;
+}
+
+input{
+    margin: auto;
+    width: fit-content;
+    margin-top: 10px;
+}
+
+#show{
+    margin-top: 2%;
+    /* margin: auto; */
+    width: fit-content;
+
+}
